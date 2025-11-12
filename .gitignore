@@ -171,3 +171,8 @@ sphinx_*/
 # Android ABI build files
 abi_gki_protected_exports
 all_kmi_symbols
+
+# My changes
+*.rej
+*.patch
+*.orig
